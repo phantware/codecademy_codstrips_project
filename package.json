@@ -1,0 +1,15 @@
+{
+  "name": "codecademy_codstrips_project.",
+  "version": "1.0.0",
+  "description": "Codestrips is a small application to allow users to create and save small one-pane comic strips.",
+  "main": "app.js",
+  "repository": "git@github.com:phantware/codecademy_codstrips_project.git",
+  "author": "Ismail Jamiu Babatunde",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "sqlite3": "^4.2.0"
+  }
+}
